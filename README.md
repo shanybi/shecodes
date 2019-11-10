@@ -1,2 +1,2 @@
 # shecodes
-studies.
+hi! im shany and i started to learn java!!
